@@ -1,1 +1,1 @@
-# FPGA---VERILOG---Reversi-Game-Project
+# FPGA-VERILOG-Reversi-Game-Project
